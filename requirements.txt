@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pathlib
+pickle-mixin
+scikit-learn
+tensorflow
+keras
+astropy
+scipy
+statsmodels
+tqdm
+protobuf
+typing-extensions
