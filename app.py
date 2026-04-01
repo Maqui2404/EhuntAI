@@ -349,17 +349,6 @@ if pagina_actual == "inicio":
         - Design for scientist and researcher interaction
         """)
 
-    with st.expander("Potential Considerations"):
-        st.markdown("""
-        You may (but are not required to) consider the following:
-
-        - Your project could be aimed at researchers wanting to classify new data or novices in the field who
-          want to interact with exoplanet data and do not know where to start
-        - Your interface could enable your tool to ingest new data and train the models as it does so
-        - Your interface could show statistics about the accuracy of the current model
-        - Your model could allow hyperparameter tweaking from the interface
-        """)
-
     st.markdown('<div class="sub-header">Team Information Summary</div>', unsafe_allow_html=True)
 
     col1, col2 = st.columns(2)
